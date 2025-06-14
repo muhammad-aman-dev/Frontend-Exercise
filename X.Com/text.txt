@@ -1,0 +1,67 @@
+1. home
+
+
+2. search
+
+
+3. notifications
+
+
+4. message
+
+
+5. lists
+
+
+6. bookmarks
+
+
+7. group
+
+
+8. box
+
+
+9. person
+
+
+10. pending
+
+
+11. settings
+
+
+12. globe_asia
+
+
+13. image
+
+
+14. gif
+
+
+15. ballot
+
+
+16. sentiment_satisfied
+
+
+17. calendar_month
+
+
+18. pin_drop
+
+
+19. chat_bubble
+
+
+20. repeat
+
+
+21. favorite
+
+
+22. bar_chart
+
+
+23. edit
